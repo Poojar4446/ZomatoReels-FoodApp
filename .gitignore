@@ -1,0 +1,27 @@
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Videos folder
+videos/
+
+# Logs
+*.log
