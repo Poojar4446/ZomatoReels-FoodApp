@@ -24,4 +24,4 @@ out/
 videos/
 
 # Logs
-*.log
+#.log
